@@ -8,6 +8,6 @@
 
 <h4>由于其数据特殊性，暂时未打算开源。</h4>
 
-<br>网址： <a href="http://www.an2.net/zi/" target="_blank">http://www.an2.net/zi/</a>
+<br>网址： <a href="https://www.an2.net/zi/" target="_blank">http://www.an2.net/zi/</a>
 </body>
 </html>
